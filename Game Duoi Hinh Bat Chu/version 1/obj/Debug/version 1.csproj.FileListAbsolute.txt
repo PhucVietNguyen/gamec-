@@ -1,0 +1,9 @@
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 1\bin\Debug\version 1.exe.config
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 1\bin\Debug\version 1.exe
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 1\bin\Debug\version 1.pdb
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 1\obj\Debug\version 1.csprojResolveAssemblyReference.cache
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 1\obj\Debug\version_1.Properties.Resources.resources
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 1\obj\Debug\version 1.csproj.GenerateResource.Cache
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 1\obj\Debug\version 1.exe
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 1\obj\Debug\version 1.pdb
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 1\obj\Debug\version_1.Form1.resources

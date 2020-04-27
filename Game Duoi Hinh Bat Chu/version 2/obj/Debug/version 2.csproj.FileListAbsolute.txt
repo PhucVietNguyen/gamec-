@@ -1,0 +1,18 @@
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 2\bin\Debug\version 2.exe.config
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 2\bin\Debug\version 2.exe
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 2\bin\Debug\version 2.pdb
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version 2.csprojResolveAssemblyReference.cache
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version_2.Form1.resources
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version_2.Properties.Resources.resources
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version 2.csproj.GenerateResource.Cache
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version 2.exe
+D:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version 2.pdb
+E:\C#.NET\Game Duoi Hinh Bat Chu\version 2\bin\Debug\version 2.exe.config
+E:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version 2.exe
+E:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version 2.pdb
+E:\C#.NET\Game Duoi Hinh Bat Chu\version 2\bin\Debug\version 2.exe
+E:\C#.NET\Game Duoi Hinh Bat Chu\version 2\bin\Debug\version 2.pdb
+E:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version 2.csprojResolveAssemblyReference.cache
+E:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version_2.Form1.resources
+E:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version_2.Properties.Resources.resources
+E:\C#.NET\Game Duoi Hinh Bat Chu\version 2\obj\Debug\version 2.csproj.GenerateResource.Cache
